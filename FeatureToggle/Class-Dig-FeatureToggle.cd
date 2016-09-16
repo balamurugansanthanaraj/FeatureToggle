@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FeatureToggle.Services.ToggleService">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Services\ToggleService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleTypes.DateFromToggle">
+    <Position X="3" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\ToggleTypes\DateFromToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleTypes.ProfileToggle">
+    <Position X="0.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAQAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\ToggleTypes\ProfileToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleTypes.RegionToggle">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\ToggleTypes\RegionToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.179" />
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleTypes.ReleaseToggle">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Core\ToggleTypes\ReleaseToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleTypes.UserToggle">
+    <Position X="8.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAIAIAAAAAA=</HashCode>
+      <FileName>Core\ToggleTypes\UserToggle.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FeatureToggle.Core.ToggleProviderBase">
+    <Position X="1.5" Y="4.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\ToggleProviderBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FeatureToggle.Core.IToggle">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\IToggle.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
