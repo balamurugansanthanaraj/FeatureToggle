@@ -19,6 +19,7 @@ namespace FeatureToggle.Core
             ProfileFeature,
             CountryFeature,
             ReleaeFeature,
+            ReleaeFeature2,
         }
 
     }
